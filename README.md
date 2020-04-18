@@ -1,5 +1,5 @@
 # 2048_game
-OOP implementation of the famous game 2048 in python (GUI is not available)  
+OOP implementation of the famous game 2048 in python 2.7 (GUI is not available)  
 
 
 ## Rules of the game
@@ -27,4 +27,6 @@ The constructor has one single input parameter, the board. The initial value of 
 > - get_size() returns the size of the board.  
 > - is_blocked() returns true if the board is blocked, that is, no more movements can be done.  
 > - max_cell() returns the maximum value of one cell of the board.
-> - score() returns the actual score of the game.
+> - score() returns the actual score of the game.  
+
+## How to Use
