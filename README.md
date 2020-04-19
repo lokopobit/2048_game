@@ -30,3 +30,7 @@ The constructor has one single input parameter, the board. The initial value of 
 > - score() returns the actual score of the game.  
 
 ## How to Use
+Open a terminal in the cloned folder. Then execute:  
+> python  
+> import main  
+> game = main.Main()

@@ -33,7 +33,7 @@ class Game2048(object):
         """
         
         self.board = board
-        self.socre = score
+        self.score = score
         self.maxValue = maxValue
         
     def get_size(self):
