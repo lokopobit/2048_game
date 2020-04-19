@@ -10,8 +10,7 @@ import auxFuns
 from game2048 import Game2048
 
 # Game is the object to play with
-board = auxFuns.random_board(4)
-game = Game2048(board)
-
-
-
+def Main():
+    board = auxFuns.random_board(4)
+    game = Game2048(board)
+    return game
